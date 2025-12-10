@@ -4,7 +4,7 @@ The goal of this project is to enable detailed spatial interaction analysis from
 
 The pipeline enables initial analysis steps such as image visualization, MFI calculation, clustering, and phenotype annotation. 
 However, it also allows for more advanced analyses such as cell-cell interactions, neighborhood analysis, dense infiltrate segmentation, and fibrosis studies.
-
+It is not necessary to purchase the paid version of Google Colab. However, it can provide access to more GPU resources and higher-performance RAM if needed, particularly during segmentation.
 ## Steps to follow to begin the analysis:
   * Download the pipeline folder from GitHub
   * Import this folder into your Google Drive
