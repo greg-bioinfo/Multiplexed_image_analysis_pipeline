@@ -7,7 +7,7 @@ However, it also allows for more advanced analyses such as cell-cell interaction
 It is not necessary to purchase the paid version of Google Colab. However, it can provide access to more GPU resources and higher-performance RAM if needed, particularly during segmentation.
 ## Steps to follow to begin the analysis:
   * Download the prooject from GitHub: Click on the green 'code' button, then on 'Download zip'
-  * Extract and import the folder 'pipeline' into your Google Drive
+  * Extract and import the folder 'pipeline' into your Google Drive: Log in to your Google Drive and then click the 'new' button --> Import a folder
   * If you are working with 'mcd' format images, import them into the 'Pipeline/project/images/mcd' folder. If you are working with '.tiff' format images, import them into the     'Pipeline/project/images/raw' folder.
   * Rename the 'project' folder according to the name of your analysis project.
   * Open the first notebook, number 0, located in the 'pipeline/code' folder. Google Collaps notebooks are made up of cells that can be run by clicking on the triangle on the left.
